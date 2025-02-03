@@ -5,7 +5,7 @@ I’m a 3rd Year Computer Science student passionate about working on different 
 - 🌱 **Currently learning**: Next.js
 - 👨‍💻 **Most recent project**: Working on a personal portfolio site
 - ⚡ **Fun fact**: I am a Red Bull fan (both F1 and the drink)
-- 🌐 **Portfolio**: Under progress....
+- 🌐 **Portfolio**: https://ahmed.study/
 
 ---
 
