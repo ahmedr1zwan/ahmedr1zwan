@@ -1,9 +1,9 @@
 # Hi there, I'm Ahmed! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-I’m a 3rd Year Computer Science student passionate about working on different projects.
+I’m a 4th Year Computer Science student who enjoys coding and working on different projects.
 
-- 🌱 **Currently learning**: Next.js
-- 👨‍💻 **Most recent project**: Working on a personal portfolio site
+- 🌱 **Currently learning**: Go
+- 👨‍💻 **Most recent project**: OnlyKonnect
 - ⚡ **Fun fact**: I am a big Red Bull fan (both the racing team and the drink)
 - 🌐 **Portfolio**: https://ahmed.study/
 
@@ -12,8 +12,6 @@ I’m a 3rd Year Computer Science student passionate about working on different 
 ## Tech & Tools I Use
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS3" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript" />
   <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" alt="TypeScript" />
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square" alt="React" />
