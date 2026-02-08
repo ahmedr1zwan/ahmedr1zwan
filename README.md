@@ -5,7 +5,7 @@ I’m a 4th Year Computer Science student who enjoys coding and working on diffe
 - 🌱 **Currently learning**: Go
 - 👨‍💻 **Most recent project**: OnlyKonnect
 - ⚡ **Fun fact**: I am a big Red Bull fan (both the racing team and the drink)
-- 🌐 **Portfolio**: https://ahmed.study/
+- 🌐 **Portfolio**: https://ahmedrizwan.dev/
 
 ---
 
