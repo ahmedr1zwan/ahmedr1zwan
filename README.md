@@ -1,10 +1,10 @@
 # Hi there, I'm Ahmed! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-I’m a 4th Year Computer Science student who enjoys coding and working on different projects.
+I’m a final year Computer Science student who enjoys coding and working on different projects.
 
 - 🌱 **Currently learning**: Go
-- 👨‍💻 **Most recent project**: OnlyKonnect
-- ⚡ **Fun fact**: I am a big Red Bull fan (both the racing team and the drink)
+- 👨‍💻 **Most recent project**: flagctl
+- ⚡ **Fun fact**: I'm a big Liverpool and F1 (Max Verstappen) fan!
 - 🌐 **Portfolio**: https://ahmedrizwan.dev/
 
 ---
